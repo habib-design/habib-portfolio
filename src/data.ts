@@ -8,7 +8,7 @@ export const DATA = {
   description:
     "Software Developer passionate about building web applications and solving real-world problems with code.",
   summary:
-    "I recently completed my B.Tech in Computer Science & Engineering. My core strength lies in frontend web development, where I create clean, responsive, and user-friendly applications. My goal is to grow into an SDE role, blending strong CS fundamentals with modern software development skills.",
+    "A Computer Science Engineering graduate specializing in Software Development, skilled in creating user-friendly and responsive web applications. Brings a positive attitude, strong problem-solving abilities, and a passion for continuous learning to deliver innovative solutions and grow with the organization.",
 
   // put your file public/me.jpg
   avatarUrl: "/me.jpg",
@@ -50,8 +50,8 @@ export const DATA = {
       company: "Saiket Systems",
       href: "#",
       title: "Frontend Development Intern",
-      start: "July 2024",
-      end: "September 2024",
+      start: "02.2025",
+      end: "05.2025",
       description:
         "Worked on building responsive frontend features using React and modern web tools. Contributed to UI improvements and bug fixing.",
     },
@@ -59,8 +59,8 @@ export const DATA = {
       company: "Sudvidha Foundation",
       href: "#",
       title: "Frontend Development Intern",
-      start: "May 2024",
-      end: "June 2024",
+      start: "06.2024",
+      end: "12.2024",
       description:
         "Assisted in developing user interfaces for web applications, focusing on clean and responsive design.",
     },
